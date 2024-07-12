@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">2024 MotoGP Rider Info</string>
+
+    <string name="riders_name">Nama Rider</string>
+    <string name="description">Deskripsi</string>
+    <string name="About">About</string>
+    <string name="share">Share</string>
+
+    <string name="name">I Wayan Ardika Chandra</string>
+    <string name="email">a118d4ky4479@bangkit.academy</string>
+
+    <string-array name="data_name">
+        <item>Fabio Quartararo #20</item>
+        //1
+        <item>Alex Rins #42</item>
+        //2
+        <item>Fransesco Bagnaia #63</item>
+        //3
+        <item>Enea Bastianini #23</item>
+        //4
+        <item>Aleix Espargaro #41</item>
+        //5
+        <item>Maverick Vinales #12</item>
+        //6
+        <item>Joan Mir #36</item>
+        //7
+        <item>Luca Marini #10</item>
+        //8
+        <item>Marc Marquez #93</item>
+        //9
+        <item>Alex Marquez #73</item>
+        //10
+        <item>Jorge Martin #89</item>
+        //11
+        <item>Franco Morbidelli #21</item>
+        //12
+        <item>Fabio di Giannantonio #49</item>
+        //13
+        <item>Marco Bezzechi #72</item>
+        //14
+        <item>Miguel Oliveira #88</item>
+        //15
+        <item>Brad Binder #33</item>
+        //16
+        <item>Raul Fernandez #88</item>
+        //17
+        <item>Agusto Fernandez #37</item>
+        //18
+        <item>Pedro Acosta #31</item>
+        //19
+        <item>Johann Zarco #5</item>
+        //20
+        <item>Takaaki Nakagami #30</item>
+        //21
+        <item>Jack Miller #43</item>
+        //22
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Fabio Quartararo (lahir 20 April 1999) adalah pembalap sepeda motor Grand Prix Prancis yang saat ini membalap di MotoGP untuk Monster Energy Yamaha MotoGP. Sebelum karier Grand Prix-nya, Quartararo memenangkan enam gelar kejuaraan Spanyol, termasuk gelar CEV Moto3 berturut-turut pada 2013 dan 2014. </item>
+        <item>Álex Rins Navarro (lahir 8 Desember 1995) adalah pembalap Grand Prix sepeda motor asal Spanyol. Mulai musim 2017 dia berkompetisi di kelas MotoGP setelah Team SUZUKI ECSTAR merekrutnya untuk membela tim tersebut selama dua tahun.</item>
+        <item>Francesco "Pecco" Bagnaia (lahir di Turin, Italia, pada 14 Januari 1997) adalah seorang pembalap berkebangsaan Italia. Saat ini ia berkompetisi di MotoGP bersama Ducati Lenovo Team. Ia adalah Juara Dunia MotoGP musim 2022, 2023 dan sebelumnya menjadi Juara Dunia Moto2 pada tahun 2018.</item>
+        <item>Enea Bastianini (lahir 30 Desember 1997) adalah pembalap Grand Prix Sepeda Motor yang mengendarai Ducati Lenovo Team di MotoGP. Dia memenangkan Moto2 musim 2020.</item>
+        <item>Aleix Espargaró Villà (lahir di Granollers, 30 Juli 1989) adalah pembalap motor berkewarganegaraan Spanyol. Saat ini dia berkompetisi di kejuraan MotoGP bersama tim Aprilia.</item>
+        <item>Maverick Viñales Ruiz (pengucapan bahasa Spanyol: [biˈɲales ˈrwiθ]; lahir 12 Januari 1995) adalah seorang pembalap motor Grand Prix Spanyol. Viñales adalah Juara Dunia Moto3 2013, yang saat ini membalap di MotoGP untuk tim Aprilia Racing. Setelah lima musim menjadi pembalap pabrikan MotoGP bersama tim Yamaha Factory Racing, kontraknya diputus atas kesepakatan bersama pada pertengahan musim 2021.</item>
+        <item>Joan Mir Mayrata (bahasa Spanyol: [ʒu an mir məj ratə], lahir 1 September 1997) adalah seorang pembalap motor Grand Prix Spanyol yang membalap untuk Tim Repsol Honda di Kejuaraan Dunia MotoGP. Mir terkenal karena memenangkan Kejuaraan Dunia MotoGP 2020 bersama Suzuki. Dia adalah pembalap Spanyol keempat yang memenangkan gelar kelas utama setelah Àlex Crivillé, Jorge Lorenzo, dan Marc Márquez, dan orang Mallorcan kedua setelah Lorenzo. Mir juga memenangkan gelar Kejuaraan Dunia Moto3 2017 bersama Leopard Racing.</item>
+        <item>Luca Marini (lahir 10 Agustus 1997) adalah seorang pembalap motor Grand Prix Italia yang dikontrak untuk membalap bersama Repsol Honda pada tahun 2024 dan 2025. Marini berkompetisi untuk Mooney VR46 Racing Team di Kejuaraan Dunia MotoGP 2023, menyelesaikan musim di posisi kedelapan. Ia finis sebagai runner-up di Kejuaraan Dunia Moto2 2020. Dia adalah saudara tiri dari pihak ibu dari Valentino Rossi.</item>
+        <item>Marc Márquez Alentà (lahir 17 Februari 1993) adalah seorang pembalap motor Grand Prix asal Spanyol yang membalap untuk tim satelit Ducati, Gresini Racing MotoGP. Ia sebelumnya membalap untuk tim pabrikan Honda sejak debutnya di MotoGP pada tahun 2013 hingga tahun 2023. Lahir di Cervera, Catalonia, Spanyol. Pada tahun 2013, ia menjadi pembalap pertama sejak Kenny Roberts pada tahun 1978 yang memenangkan gelar juara dunia di musim pertamanya, dan pembalap termuda yang memenangkan gelar juara dunia secara keseluruhan, dengan usia 20 tahun 266 hari.</item>
+        <item>Álex Márquez Alentà (lahir 23 April 1996) adalah seorang pembalap motor Grand Prix asal Spanyol yang membalap untuk tim satelit Ducati, Gresini Racing MotoGP. Ia telah berkompetisi di MotoGP sejak musim 2020, setelah sebelumnya menjadi Juara Dunia di Moto2 musim 2019. Ia juga memenangkan Kejuaraan Dunia Moto3 2014, dan gelar juara CEV Moto3 musim 2012.</item>
+        <item>Jorge Martín Almoguera (lahir 29 Januari 1998), yang dijuluki Martinator, adalah seorang pembalap motor Grand Prix Spanyol yang membalap untuk Prima Pramac Racing. Pada tahun 2021, Martín naik ke kelas utama bersama Pramac Racing, dan memenangkan Grand Prix sepeda motor Styrian 2021, serta mengamankan tiga posisi terdepan dalam tujuh balapan pertamanya, dengan total empat balapan dalam kampanye rookie-nya. Dia terkenal karena memenangkan Kejuaraan Dunia Moto3 2018 bersama Gresini Racing, dan juga juara Red Bull MotoGP Rookies Cup 2014.</item>
+        <item>Franco Morbidelli (lahir 4 Desember 1994) adalah seorang pembalap motor Grand Prix Italia di kelas MotoGP, membalap untuk tim Prima Pramac Racing. Ia menjadi juara di Kejuaraan Superstock 600 Eropa 2013, dan Kejuaraan Dunia Moto2 2017.</item>
+        <item>Fabio Di Giannantonio (lahir 10 Oktober 1998) adalah seorang pembalap motor Grand Prix asal Italia, yang membalap untuk Pertamina Enduro VR46 Racing Team di kelas MotoGP pada ajang balap motor Grand Prix mulai tahun 2024.</item>
+        <item>Marco Bezzecchi (lahir 12 November 1998) adalah seorang pembalap motor Grand Prix Italia, yang berkompetisi untuk Tim Balap Pertamina Enduro VR46 di Kejuaraan Dunia MotoGP 2024</item>
+        <item>Miguel Ângelo Falcão de Oliveira (diucapkan [miˈɣɛl ɔliˈvɐjɾɐ]; lahir 4 Januari 1995) adalah seorang pembalap sepeda motor profesional asal Portugal yang berkompetisi di Kejuaraan Dunia MotoGP untuk Trackhouse Racing MotoGP, naik kelas dari KTM Tech3, sebuah tim satelit, di mana ia mendapatkan kemenangan pertama dan kedua untuk tim dan juga kemenangan pertamanya.</item>
+        <item>Brad Binder (lahir 11 Agustus 1995) adalah seorang pembalap motor Grand Prix Afrika Selatan. Ia terkenal karena memenangkan Kejuaraan Dunia Moto3 2016. Pada bulan November 2019, ia dikukuhkan sebagai pembalap Red Bull KTM Factory Racing di kelas MotoGP untuk musim 2020, menggantikan Johann Zarco yang telah meninggalkan tunggangannya di awal tahun itu.</item>
+        <item>Raúl Fernández González (lahir 23 Oktober 2000) adalah seorang pembalap motor Grand Prix Spanyol yang berlaga di Kejuaraan Dunia MotoGP dengan tim Trackhouse Racing MotoGP. Adik laki-lakinya, Adrián, juga seorang pembalap motor. Mereka tidak memiliki hubungan keluarga dengan pembalap MotoGP, Augusto Fernández. Dia adalah Juara Dunia FIM CEV Moto3 Junior 2018.</item>
+        <item>Augusto Fernández Guerra (lahir 23 September 1997) adalah seorang pembalap motor Spanyol yang saat ini berkompetisi di MotoGP untuk Red Bull GasGas Tech3. Ia memenangkan Kejuaraan Dunia Pebalap Moto2 pada tahun 2022. Ia tidak memiliki hubungan keluarga dengan sesama pembalap MotoGP Raúl Fernández, maupun dengan adik Raul, pembalap Moto3 Adrián Fernández.</item>
+        <item>Pedro Acosta Sánchez (lahir 25 Mei 2004) adalah seorang pembalap motor Grand Prix Spanyol, yang berlaga di MotoGP untuk tim Red Bull GasGas Tech3, menjadi juara rookie pertama sejak Loris Capirossi pada tahun 1990, dan menjadi juara termuda kedua yang pernah ada, hanya satu hari lebih tua dari Capirossi saat menang. </item>
+        <item>Johann Zarco (lahir 16 Juli 1990) adalah seorang pembalap motor Grand Prix Prancis, yang terkenal karena memenangkan Kejuaraan Dunia Moto2 2015 dan 2016 dengan kemenangannya di tahun 2015 yang merupakan rekor total poin untuk kelas menengah. Dia adalah pemenang balapan MotoGP, dan saat ini membalap untuk LCR Honda Castrol di MotoGP.</item>
+        <item>Takaaki Nakagami(中上 貴晶, Nakagami Takaaki, lahir 9 Februari 1992) adalah seorang pembalap motor Grand Prix Jepang, yang berlaga untuk LCR Honda Idemitsu di MotoGP. Ia memenangkan Kejuaraan Balap Jalan Raya Jepang kelas 125cc pada tahun 2006 dan kelas J-GP2 pada tahun 2011.</item>
+        <item>Jack Peter Miller (lahir 18 Januari 1995) adalah seorang pembalap sepeda motor Grand Prix Australia yang membalap untuk Red Bull KTM Factory Racing di MotoGP. Ia adalah Juara Internasional IDM 125cc Jerman 2011. Miller telah memenangkan empat balapan di kelas utama, yang pertama di TT Assen 2016 dengan Marc VDS Honda, yang kedua dan ketiga di akhir pekan berturut-turut pada bulan Mei 2021, di Jerez, Spanyol, dan Le Mans, Prancis di atas Ducati, Motegi Jepang pada tahun 2022, serta finis sebagai runner-up kejuaraan di Kejuaraan Dunia Moto3 2014.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/c4/Fabio_Quartararo_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg</item>
+        //1
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alex_Rins_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg/1200px-Alex_Rins_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg</item>
+        //2
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/92/Francesco_%27Pecco%27_Bagnaia_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg</item>
+        //3
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d4/Enea_Bastianini_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg</item>
+        //4
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/38/Aleix_Espargaro_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg</item>
+        //5
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/5f/Maverick_Vinales_at_2019_Yamaha_MotoGP_team_launch.jpg</item>
+        //6
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/8f/Joan_Mir_2023_%28cropped%29.jpg</item>
+        //7
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/89/Podio_Moto2_-_Luca_Marini_%28cropped%29.jpg</item>
+        //8
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Marc_Marquez_Aragon_2016_%28cropped%29.jpg/1200px-Marc_Marquez_Aragon_2016_%28cropped%29.jpg</item>
+        //9
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/67/%C3%81lex_M%C3%A1rquez_2019_Brno.jpeg</item>
+        //10
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jorge_Martin_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg/1200px-Jorge_Martin_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg</item>
+        //11
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/2e/Franco_Morbidelli_2019.jpg</item>
+        //12
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/fe/Fabio_Di_Giannantonio_2018.jpg</item>
+        //13
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Marco_Bezzecchi_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg/1200px-Marco_Bezzecchi_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg</item>
+        //14
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Miguel_Oliveira_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg/1200px-Miguel_Oliveira_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg</item>
+        //15
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Brad_Binder_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg/1200px-Brad_Binder_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg</item>
+        //16
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/71/Raul_Fernandez_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg</item>
+        //17
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e2/Augusto_Fernandez_2018.jpg</item>
+        //18
+        <item>https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2022/6/23/f2rvu2j7od0jvcq2kljk/pedro-acosta-moto2-italian-gp</item>
+        //19
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johann_Zarco_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg/1200px-Johann_Zarco_at_the_2022_San_Marino_Grand_Prix_at_Misano.jpg</item>
+        //20
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/35/Takaaki_Nakagami_at_the_2023_Japanese_motorcycle_Grand_Prix.jpg</item>
+        //21
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/eb/Jack_Miller_2021.jpg</item>
+        //22
+    </string-array>
+
+
+</resources>
